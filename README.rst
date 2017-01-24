@@ -1,4 +1,4 @@
-BigBrotherBot Config File Generator
+BigBrotherBot V1.10+ Config File Generator
 ===================================
 
 http://www.bigbrotherbot.net
@@ -11,7 +11,7 @@ PHP extensions: DOM, XSL, gettext
 Description
 -----------
 
-A web based tool written in PHP to help configure BigBrotherBot. Although this tool was created for
+A web based tool written in PHP to help configure BigBrotherBot v1.10+. Although this tool was created for
 BigBrotherBot website (http://www.bigbrotherbot.net), you may use it on your website if you want to
 help spread B3 and provide tools to support it.
 
@@ -28,3 +28,8 @@ http://www.bigbrotherbot.net/forums.
 
 **See Working at** http://config.bigbrotherbot.net
 **Author:** Freelander - freelander@bigbrotherbot.net - http://www.bigbrotherbot.net
+
+Update
+-------
+- modified for BigBrotherBot v1.10+
+- add UrbanTerror 4.3 support
