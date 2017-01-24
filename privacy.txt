@@ -1,0 +1,8 @@
+BigBrotherBot Config File Generator is an online tool to help you create a valid b3
+config file for your B3 installation. We accept no responsibility for any damage 
+it may cause, so use this tool at your own risk.
+
+<p>We are committed to protecting your privacy. bigbrotherbot.net shall collect no 
+information you entered in this config file generator.</p>
+
+<p>IF YOU DO NOT AGREE TO OUR PRIVACY POLICY, PLEASE DO NOT USE THIS TOOL.</p> 
